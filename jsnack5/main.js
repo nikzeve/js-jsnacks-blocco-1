@@ -4,7 +4,7 @@
 // console.log(cubo_di_quattro);
 
 
-var n_utente = prompt('Inserisci fino a che numero vuoi che venga eseguito il cubo.')
+var n_utente = parseInt(prompt('Inserisci fino a che numero vuoi che venga eseguito il cubo.'))
 console.log(n_utente);
 
 
